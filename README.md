@@ -1,3 +1,3 @@
 # HEX-RTS
 
-Pliki generatora map 2D sześciokątów do gry RTS
+Pliki generatora map 2D kwadratów i sześciokątów do gry RTS
