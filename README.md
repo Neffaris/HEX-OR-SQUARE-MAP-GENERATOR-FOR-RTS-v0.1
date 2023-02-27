@@ -1,3 +1,3 @@
 # HEX-RTS
 
-Kod do generatora map 2D hexagonów do gry RTS
+Pliki generatora map 2D hexagonów do gry RTS
